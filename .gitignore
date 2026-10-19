@@ -1,0 +1,16 @@
+# Logs
+*.log
+sync.log
+
+# Build outputs (optional: install.ps1 compiles automatically if missing)
+# *.exe
+*.pdb
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
